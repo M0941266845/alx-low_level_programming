@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main -  allowed to use a and modify p the variabl
- *
- * Return: 0
+ * main - print 98\n
+ * Return: always 0.
  */
 int main(void)
 {
